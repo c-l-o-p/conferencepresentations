@@ -11,4 +11,4 @@ Beginning to link conference presentations and slides
 ### Floating the goat: How to use DevSecOps to secure OWASP WebGoat ctn.
 * Slides
 * Video
-* [About]([https://thedianainitiative2023.sched.com/event/1O5lz/floating-the-goat-how-to-use-devsecops-to-secure-owasp-webgoat](https://semgrep.dev/events/devsecops-to-secure-owasp-webgoat/?utm_medium=social&utm_campaign=whp)https://semgrep.dev/events/devsecops-to-secure-owasp-webgoat/?utm_medium=social&utm_campaign=whp)
+* [About](https://semgrep.dev/events/devsecops-to-secure-owasp-webgoat/?utm_medium=social&utm_campaign=whp)
